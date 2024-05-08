@@ -1,6 +1,6 @@
 # js---ping-pong
 
-<!DOCTYPE html>
+ <!DOCTYPE html>
 <html lang="en">
   <head>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/p5.js/1.9.2/p5.js"></script>

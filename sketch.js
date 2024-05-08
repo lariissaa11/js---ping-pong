@@ -1,4 +1,4 @@
-//variáveis da bolinha
+ //variáveis da bolinha
 let xBolinha = 300;
 let yBolinha = 200;
 let diametro = 15;
